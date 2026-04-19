@@ -21,3 +21,10 @@ img {
 p {
   text-align: justify;
 }
+
+#images {
+  display: flex;
+  justify-content: center;
+  height: 40vh;
+  width: 40vw;
+}
